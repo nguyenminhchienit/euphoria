@@ -1,0 +1,66 @@
+.wrapper{
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+}
+
+.feature{
+    width: 1440px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 48px;
+}
+
+.img-fea{
+    width: 604px;
+    height: 356px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.feature-item{
+    position: relative;
+}
+
+.info-fea{
+    position: absolute;
+    left: 80px;
+    top: 80px;
+}
+
+.price{
+    color: #FFF;
+    font-size: 1.8rem;
+    font-weight: 800;
+    line-height: 30.067px;
+    letter-spacing: 0.251px;
+}
+
+.title{
+    margin-top: 24px;
+    color: #FFF;
+    font-size: 3.4rem;
+    font-weight: 800;
+    line-height: 45.1px;
+}
+
+.sub-title{
+    margin-top: 9px;
+    color: #FFF;
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 25.056px;
+    letter-spacing: 0.251px;
+}
+
+.more{
+    display: block;
+    margin-top: 42px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 30.132px;
+}
+
